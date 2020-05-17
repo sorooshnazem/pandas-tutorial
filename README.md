@@ -1,4 +1,4 @@
-![](image.png)
+
 # pandas-tutorial
 I have taken the files from the following links
 
